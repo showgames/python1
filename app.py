@@ -170,7 +170,7 @@ while True:
     game_master.set_object()
     game_master.start_game()
 
-
+#END
 
 
 
